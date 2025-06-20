@@ -106,8 +106,8 @@ npm start
 
 ### 👥 Developers
 
-* **Stephanos Khoury** – [`stephan042003@gmail.com`](mailto:stephan042003@gmail.com)
-* **Elias Dabbagh** – [`rula.elias2004@gmail.com`](mailto:rula.elias2004@gmail.com)
+* **Stephanos Khoury** –
+* **Elias Dabbagh** –
 
 > Programmer credits also appear in `app.js` as comments.
 
@@ -121,4 +121,3 @@ npm start
 
 ---
 
-Let me know if you'd like this saved as a downloadable `.md` file or want a version in Hebrew too.
