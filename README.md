@@ -115,7 +115,7 @@ npm start
 
 ### 📸 ERD Preview
 
-![ERD](./ERD.png)
+![ERD](./FinalNode.drawio.png)
 
 
 
